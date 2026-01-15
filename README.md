@@ -1256,6 +1256,7 @@ search, and comprehensive file analysis.
 - **[Resend](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/resend)** - Send email using Resend services
 - **[Restream](https://github.com/shaktech786/restream-mcp-server)** - Model Context Protocol server for Restream API integration - manage multi-platform live streams, control channels, and access streaming analytics.
 - **[Revit MCP](https://github.com/revit-mcp)** - A service implementing the MCP protocol for Autodesk Revit.
+- **[RespCode](https://github.com/RespCodeAI/respcode-mcp)** - Multi-architecture code execution platform. Generate code with 4 AI models (Claude, GPT-4o, DeepSeek, Gemini), execute on x86, ARM64, RISC-V, and simulate Verilog/VHDL. Features compete mode to compare all models side-by-side.
 - **[Rijksmuseum](https://github.com/r-huijts/rijksmuseum-mcp)** - Interface with the Rijksmuseum API to search artworks, retrieve artwork details, access image tiles, and explore user collections.
 - **[Riot Games](https://github.com/jifrozen0110/mcp-riot)** - MCP server for League of Legends – fetch player info, ranks, champion stats, and match history via Riot API.
 - **[Rohlik](https://github.com/tomaspavlin/rohlik-mcp)** - Shop groceries across the Rohlik Group platforms (Rohlik.cz, Knuspr.de, Gurkerl.at, Kifli.hu, Sezamo.ro)
